@@ -6,7 +6,9 @@ var mainMenuState = {
     
     
     preload: function() { 
+        game.load.spritesheet('startBtn', 'assets/images/start_btn.png' 193, 71)
         
+        game.stage.backgroundColor: '#8185d5'
     },
     
     
