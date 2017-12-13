@@ -1,4 +1,4 @@
-/* global game, Phaser, playState, menuState, mainMenuState */
+
 
 var playState = {
 
